@@ -7,7 +7,8 @@
 
 ## 🧑‍🎓 About me
 
-- Software Engineer at <a href="https://www.senecacollege.ca/">Seneca College</a><br />
+- Graduated from <a href="https://www.senecacollege.ca/">Seneca College</a><br />
+- Major: *Computer Programming and Analysis*
 - Currently living in *****Toronto***** 🇨🇦
 - Originally from *****Korea, Republic of***** 🇰🇷
 
@@ -25,7 +26,7 @@ const tony = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "C", "C++", "Java"],
     editor: "Neovim",
-    device: "Mac Mini M1",
+    device: "Macbook pro M1 Pro 14'",
     technologies: {
         frontEnd: [ "React.js", "Next.js" ],
         design: [ "Tailwind CSS", "Chakra UI" ],
@@ -34,7 +35,7 @@ const tony = {
             java: "Android Development",
             reactNative: "IOS Development",
         },
-        databases: [ "mongoDB", "Maria DB", "Postgresql" ],
+        databases: [ "mongoDB" ],
         etc: [ "Firebase" ]
     }
 ```
