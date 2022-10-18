@@ -1,6 +1,6 @@
 # Hello 🙋, this is Dark.Coder_, **Tony** 🔥
 <br />
-Hi! My name is Hyeongseok Lee. You can also call **Tony**
+Hi! My name is Hyeongseok Lee. You can also call Tony!
 
 <a href="#">
   <img align="right" src="https://user-images.githubusercontent.com/67274475/166124323-c1584486-c08b-47f6-b244-6841d7dee779.png" width="250" />
