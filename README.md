@@ -8,9 +8,9 @@ Hi! My name is Hyeongseok Lee. You can also call me Tony!
 
 ## 🧑‍🎓 About me
 
-- Graduated from <a href="https://www.senecacollege.ca/">Seneca College</a><br />
+- Graduated from <a href="https://www.senecacollege.ca/">Seneca College</a>, Toronto, Canada 🇨🇦<br />
 - Major: *Computer Programming and Analysis*
-- Currently living in *****Vancouver***** 🇨🇦
+- Currently living in *****Seoul, Republic of Korea***** 🇰🇷
 - Originally from *****Korea, Republic of***** 🇰🇷
 
 
@@ -25,19 +25,14 @@ Hi! My name is Hyeongseok Lee. You can also call me Tony!
 ```javascript
 const tony = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C", "C++", "Java"],
+    code: ["Javascript", "Typescript", "C", "C++", "Java", "Go", "Rust"],
     editor: "Neovim",
     device: "Macbook pro M1 Pro 14'",
     technologies: {
-        frontEnd: [ "React.js", "Next.js" ],
-        design: [ "Tailwind CSS", "Chakra UI" ],
-        backEnd: [ "Express", "Node" ],
-        mobile: {
-            java: "Android Development",
-            reactNative: "IOS Development",
-            flutter: "IOS Development",
-        },
-        databases: [ "mongoDB" ],
-        etc: [ "Firebase" ]
+        frontEnd: [ "React.js", "Next.js", "Svelte" ],
+        design: [ "Tailwind CSS" ],
+        backEnd: [ "Express", "Springboot", "Go Fiber" ],
+        databases: [ "MariaDB", "Postgresql" ],
+        infrastructure: [ "Kubernetes", "AWS", "Terraform", "ArgoCD", "Grafana", "Jenkins" ]
     }
 ```
